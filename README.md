@@ -6,20 +6,20 @@
 
 <!-- Presentation -->
 <p>
-  Olá! Sou a Amanda Sayuri, estudante da Etec de Registro.
+  Hello! I'm Amanda Sayuri, a student at Etec de Registro.
 
-  - 📚 Atualmente estou cursando o ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas. 
+  - 📚 I am currently attending high school integrated with the Systems Development technical course. 
 
-  - 💻 Procuro melhorar minhas habilidades em programação e ampliar meu conhecimento em relação a IA.
+  - 💻 I'm looking to improve my programming skills and expand my knowledge of AI.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👩‍💻 Mais sobre mim</summary>
+  <summary>👩‍💻 More about me </summary>
 
-  - 💬 Tenho 15 anos, nasci em 12 de janeiro de 2009, e moro no Brasil, na cidade de Registro, em São Paulo. Por estar ingressando no Ensino Médio, ainda não tenho proficiência em alguns assuntos.
+  - 💬 I'm 15 years old, born on January 12, 2009, and I live in Brazil, in the city of Registro, in São Paulo. As I am entering high school, I am not yet proficient in some subjects.
 
-  - ⚡ Gosto de ler mangás e hqs, assistir animes, como Boku no Hero, Jujutsu Kaisen e etc., e sou fã de Star Wars.
+  - ⚡ I like reading manga and comics, watching anime, like Boku no Hero, Jujutsu Kaisen, etc., and I'm a fan of Star Wars.
 </details>
 
 <!-- GithubStats -->
