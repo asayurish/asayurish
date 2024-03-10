@@ -8,7 +8,7 @@
 <p>
   Hello! I'm Amanda Sayuri, a student at Etec de Registro.
 
-  - 📚 I am currently attending high school integrated with the Systems Development technical course. 
+  - 📚 Systems Development student. 
 
   - 💻 I'm looking to improve my programming skills and expand my knowledge of AI.
 </p>
