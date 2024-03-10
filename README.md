@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hello! I'm Amanda Sayuri, a student at Etec de Registro.
+  Hello! I'm Amanda Sayuri.
 
   - 📚 Systems Development student. 
 
