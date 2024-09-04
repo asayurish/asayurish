@@ -19,7 +19,7 @@
 
   - 💬 I'm 15 years old, born on January 12, 2009, and I live in Brazil, in the city of Registro, in São Paulo. As I am in high school, I am not proficient in some subjects yet.
 
-  - ⚡ I like reading manga and comics, watching anime, like Boku no Hero, Jujutsu Kaisen, etc., and I'm a fan of Star Wars.
+  - ⚡ I like reading manga and comics, watching anime, like Jujutsu Kaisen, Haikyuu, etc., and I'm a fan of Star Wars.
 </details>
 
 <!-- GithubStats -->
