@@ -15,7 +15,7 @@
 <details>
   <summary>👩‍💻 More about me </summary>
 
-  - 💬 I'm 16 years old, born on January 12, 2009, and I live in Brazil, in São Paulo. As I am in high school, I am not proficient in some subjects yet.
+  - 💬 I'm 17 years old, born on January 12, 2009, and I live in Brazil, in São Paulo. As I am in high school, I am not proficient in some subjects yet.
 
   - ⚡ I like reading, watching series and anime.
   
