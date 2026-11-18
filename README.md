@@ -17,7 +17,6 @@
 
   - 💬 I'm 17 years old, born on January 12, 2009, and I live in Brazil, in São Paulo. As I am in high school, I am not proficient in some subjects yet.
 
-  - ⚡ I like reading, watching series and anime.
   
   - ⭐ I am fluent in Portuguese and currently study English and French.
 </details>
